@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c4cc4ca9-aa12-43fa-9d7f-92014d29a0f6","path":"sprites/sp_castle_bg/sp_castle_bg.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c4cc4ca9-aa12-43fa-9d7f-92014d29a0f6","path":"sprites/sp_castle_bg/sp_castle_bg.yy",},"LayerId":{"name":"0ec4b280-1e2f-45c7-99ba-37783207ca95","path":"sprites/sp_castle_bg/sp_castle_bg.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sp_castle_bg","path":"sprites/sp_castle_bg/sp_castle_bg.yy",},"resourceVersion":"1.0","name":"c4cc4ca9-aa12-43fa-9d7f-92014d29a0f6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"05aed8ae-0b37-42ad-a352-a391ca048b90","path":"sprites/sp_castle_wall/sp_castle_wall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"05aed8ae-0b37-42ad-a352-a391ca048b90","path":"sprites/sp_castle_wall/sp_castle_wall.yy",},"LayerId":{"name":"8b2ab751-d168-4fb0-bc12-f9808cf27f76","path":"sprites/sp_castle_wall/sp_castle_wall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sp_castle_wall","path":"sprites/sp_castle_wall/sp_castle_wall.yy",},"resourceVersion":"1.0","name":"05aed8ae-0b37-42ad-a352-a391ca048b90","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sp_castle_bg","path":"sprites/sp_castle_bg/sp_castle_bg.yy",},
+    "spriteId": {"name":"sp_castle_wall","path":"sprites/sp_castle_wall/sp_castle_wall.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"685315ed-aa3e-4d6e-a4e8-a0ebee72e7b2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c4cc4ca9-aa12-43fa-9d7f-92014d29a0f6","path":"sprites/sp_castle_bg/sp_castle_bg.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cebff236-b1c1-404c-96e8-50cd3a2308d1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"05aed8ae-0b37-42ad-a352-a391ca048b90","path":"sprites/sp_castle_wall/sp_castle_wall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sp_castle_bg","path":"sprites/sp_castle_bg/sp_castle_bg.yy",},
+    "parent": {"name":"sp_castle_wall","path":"sprites/sp_castle_wall/sp_castle_wall.yy",},
     "resourceVersion": "1.3",
-    "name": "sp_castle_bg",
+    "name": "sp_castle_wall",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0ec4b280-1e2f-45c7-99ba-37783207ca95","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8b2ab751-d168-4fb0-bc12-f9808cf27f76","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "floors and walls",
     "path": "folders/Sprites/floors and walls.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sp_castle_bg",
+  "name": "sp_castle_wall",
   "tags": [],
   "resourceType": "GMSprite",
 }

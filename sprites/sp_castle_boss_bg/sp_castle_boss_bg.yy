@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 1023,
+  "bbox_right": 63,
   "bbox_top": 0,
-  "bbox_bottom": 767,
+  "bbox_bottom": 63,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 1024,
-  "height": 768,
+  "width": 64,
+  "height": 64,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"33546741-dc71-4b09-b465-a16994532876","path":"sprites/sp_castle_boss_bg/sp_castle_boss_bg.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"33546741-dc71-4b09-b465-a16994532876","path":"sprites/sp_castle_boss_bg/sp_castle_boss_bg.yy",},"LayerId":{"name":"78041686-ce27-493b-adaa-999996b1dcb2","path":"sprites/sp_castle_boss_bg/sp_castle_boss_bg.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sp_castle_boss_bg","path":"sprites/sp_castle_boss_bg/sp_castle_boss_bg.yy",},"resourceVersion":"1.0","name":"33546741-dc71-4b09-b465-a16994532876","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d5a07500-bdb9-417f-a85b-2f024e0ec575","path":"sprites/sp_castle_boss_bg/sp_castle_boss_bg.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d5a07500-bdb9-417f-a85b-2f024e0ec575","path":"sprites/sp_castle_boss_bg/sp_castle_boss_bg.yy",},"LayerId":{"name":"bb2d0502-4369-4544-8770-189bead03910","path":"sprites/sp_castle_boss_bg/sp_castle_boss_bg.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sp_castle_boss_bg","path":"sprites/sp_castle_boss_bg/sp_castle_boss_bg.yy",},"resourceVersion":"1.0","name":"d5a07500-bdb9-417f-a85b-2f024e0ec575","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"sp_castle_boss_bg","path":"sprites/sp_castle_boss_bg/sp_castle_boss_bg.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"bea59184-acf3-4ad4-97c2-ec1a5d82be15","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"33546741-dc71-4b09-b465-a16994532876","path":"sprites/sp_castle_boss_bg/sp_castle_boss_bg.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2972a798-ac6f-40a0-8472-f5a6e06e8346","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d5a07500-bdb9-417f-a85b-2f024e0ec575","path":"sprites/sp_castle_boss_bg/sp_castle_boss_bg.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"78041686-ce27-493b-adaa-999996b1dcb2","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bb2d0502-4369-4544-8770-189bead03910","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "floors and walls",
