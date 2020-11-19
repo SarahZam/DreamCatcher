@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f711954d-e363-4c56-96f5-ca8d7d8e0c95","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "floors and walls",
+    "path": "folders/Sprites/floors and walls.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_wall",
