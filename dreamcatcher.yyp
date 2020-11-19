@@ -17,6 +17,7 @@
     {"id":{"name":"rm_castle_3","path":"rooms/rm_castle_3/rm_castle_3.yy",},"order":2,},
     {"id":{"name":"s_bullet","path":"sprites/s_bullet/s_bullet.yy",},"order":1,},
     {"id":{"name":"o_castle_wall","path":"objects/o_castle_wall/o_castle_wall.yy",},"order":5,},
+    {"id":{"name":"rm_start","path":"sprites/rm_start/rm_start.yy",},"order":5,},
     {"id":{"name":"o_ladder_2","path":"objects/o_ladder_2/o_ladder_2.yy",},"order":7,},
     {"id":{"name":"o_bullet","path":"objects/o_bullet/o_bullet.yy",},"order":3,},
     {"id":{"name":"sp_castle_floor","path":"sprites/sp_castle_floor/sp_castle_floor.yy",},"order":2,},
