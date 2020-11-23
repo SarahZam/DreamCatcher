@@ -36,8 +36,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "protagonist",
+    "path": "folders/Objects/protagonist.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_player",

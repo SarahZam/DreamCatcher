@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "furnitureAndStuff",
+    "path": "folders/Objects/furnitureAndStuff.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_castle_boss_floor",
