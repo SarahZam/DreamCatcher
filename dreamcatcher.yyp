@@ -79,8 +79,8 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"rm_bedroom","path":"rooms/rm_bedroom/rm_bedroom.yy",},
     {"name":"rm_castle_1","path":"rooms/rm_castle_1/rm_castle_1.yy",},
+    {"name":"rm_bedroom","path":"rooms/rm_bedroom/rm_bedroom.yy",},
     {"name":"rm_castle_2","path":"rooms/rm_castle_2/rm_castle_2.yy",},
     {"name":"rm_castle_3","path":"rooms/rm_castle_3/rm_castle_3.yy",},
     {"name":"rm_castle_4","path":"rooms/rm_castle_4/rm_castle_4.yy",},
