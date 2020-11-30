@@ -18,7 +18,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":13,"eventType":9,"collisionObjectId":null,"parent":{"name":"o_jungle_restart","path":"objects/o_jungle_restart/o_jungle_restart.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":13,"eventType":9,"collisionObjectId":null,"parent":{"name":"o_restart","path":"objects/o_restart/o_restart.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -27,7 +27,7 @@
     "path": "folders/Objects/Invisible Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_jungle_restart",
+  "name": "o_restart",
   "tags": [],
   "resourceType": "GMObject",
 }
