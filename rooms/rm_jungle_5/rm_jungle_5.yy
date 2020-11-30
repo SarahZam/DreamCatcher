@@ -47,6 +47,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"ob_jungle_tile","path":"objects/ob_jungle_tile/ob_jungle_tile.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":640.0,"y":288.0,"resourceVersion":"1.0","name":"inst_28277464","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"ob_jungle_tile","path":"objects/ob_jungle_tile/ob_jungle_tile.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":832.0,"y":416.0,"resourceVersion":"1.0","name":"inst_58CF6194","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"ob_jungle_tile","path":"objects/ob_jungle_tile/ob_jungle_tile.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":544.0,"resourceVersion":"1.0","name":"inst_15385EFC","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"o_transition","path":"objects/o_transition/o_transition.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":288.0,"y":128.0,"resourceVersion":"1.0","name":"inst_416BC015","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"o_wall","path":"objects/o_wall/o_wall.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":32.0,"resourceVersion":"1.0","name":"inst_21A33D01","tags":[],"resourceType":"GMRInstance",},
@@ -134,6 +135,7 @@
     {"name":"inst_28277464","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"inst_58CF6194","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"inst_15385EFC","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
+    {"name":"inst_416BC015","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

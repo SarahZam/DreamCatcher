@@ -25,6 +25,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"o_space_enemy","path":"objects/o_space_enemy/o_space_enemy.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":992.0,"y":64.0,"resourceVersion":"1.0","name":"inst_E997A02","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_space_enemy","path":"objects/o_space_enemy/o_space_enemy.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":352.0,"y":416.0,"resourceVersion":"1.0","name":"inst_7D76B295","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_space_enemy","path":"objects/o_space_enemy/o_space_enemy.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":992.0,"y":320.0,"resourceVersion":"1.0","name":"inst_27371D3A","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"o_transition","path":"objects/o_transition/o_transition.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":288.0,"resourceVersion":"1.0","name":"inst_1B3D5164","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Enemies","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"o_wall","path":"objects/o_wall/o_wall.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":256.0,"resourceVersion":"1.0","name":"inst_3E002C4A","tags":[],"resourceType":"GMRInstance",},
@@ -184,6 +185,7 @@
     {"name":"inst_E997A02","path":"rooms/rm_space_3/rm_space_3.yy",},
     {"name":"inst_7D76B295","path":"rooms/rm_space_3/rm_space_3.yy",},
     {"name":"inst_27371D3A","path":"rooms/rm_space_3/rm_space_3.yy",},
+    {"name":"inst_1B3D5164","path":"rooms/rm_space_3/rm_space_3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
