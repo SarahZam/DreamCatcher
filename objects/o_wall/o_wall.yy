@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_wall",
-    "path": "sprites/s_wall/s_wall.yy",
+    "name": "sp_jungle_floor",
+    "path": "sprites/sp_jungle_floor/sp_jungle_floor.yy",
   },
   "solid": false,
   "visible": true,
