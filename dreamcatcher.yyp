@@ -102,6 +102,7 @@
     "children": [],
   },
   "RoomOrder": [
+    {"name":"rm_jungle_5","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"Menu","path":"rooms/Menu/Menu.yy",},
     {"name":"rm_bedroom","path":"rooms/rm_bedroom/rm_bedroom.yy",},
     {"name":"rm_castle_1","path":"rooms/rm_castle_1/rm_castle_1.yy",},
@@ -113,7 +114,6 @@
     {"name":"rm_jungle_2","path":"rooms/rm_jungle_2/rm_jungle_2.yy",},
     {"name":"rm_jungle_3","path":"rooms/rm_jungle_3/rm_jungle_3.yy",},
     {"name":"rm_jungle_4","path":"rooms/rm_jungle_4/rm_jungle_4.yy",},
-    {"name":"rm_jungle_5","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"rm_space_1","path":"rooms/rm_space_1/rm_space_1.yy",},
     {"name":"rm_space_2","path":"rooms/rm_space_2/rm_space_2.yy",},
     {"name":"rm_space_3","path":"rooms/rm_space_3/rm_space_3.yy",},
