@@ -1,21 +1,21 @@
 {
-  "bboxMode": 2,
-  "collisionKind": 2,
+  "bboxMode": 0,
+  "collisionKind": 0,
   "type": 0,
   "origin": 4,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 13,
-  "bbox_right": 54,
-  "bbox_top": 9,
-  "bbox_bottom": 54,
+  "bbox_left": 0,
+  "bbox_right": 63,
+  "bbox_top": 0,
+  "bbox_bottom": 141,
   "HTile": false,
   "VTile": false,
   "For3D": false,
   "width": 64,
-  "height": 64,
+  "height": 142,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9ab8b475-7517-4f7c-93aa-379e505049e5","path":"sprites/sp_dreamcatcher/sp_dreamcatcher.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9ab8b475-7517-4f7c-93aa-379e505049e5","path":"sprites/sp_dreamcatcher/sp_dreamcatcher.yy",},"LayerId":{"name":"3033e308-4fcc-4254-a066-ae185ae71731","path":"sprites/sp_dreamcatcher/sp_dreamcatcher.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sp_dreamcatcher","path":"sprites/sp_dreamcatcher/sp_dreamcatcher.yy",},"resourceVersion":"1.0","name":"9ab8b475-7517-4f7c-93aa-379e505049e5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4208f793-2821-49a9-8883-db5dc846b5e3","path":"sprites/sp_dreamcatcher/sp_dreamcatcher.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4208f793-2821-49a9-8883-db5dc846b5e3","path":"sprites/sp_dreamcatcher/sp_dreamcatcher.yy",},"LayerId":{"name":"590500bb-e46c-4bd3-bed5-73034ea2550f","path":"sprites/sp_dreamcatcher/sp_dreamcatcher.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sp_dreamcatcher","path":"sprites/sp_dreamcatcher/sp_dreamcatcher.yy",},"resourceVersion":"1.0","name":"4208f793-2821-49a9-8883-db5dc846b5e3","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"sp_dreamcatcher","path":"sprites/sp_dreamcatcher/sp_dreamcatcher.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"9836a25b-1e34-4929-9d29-6dddd09f374b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9ab8b475-7517-4f7c-93aa-379e505049e5","path":"sprites/sp_dreamcatcher/sp_dreamcatcher.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2696286a-668d-48a5-b5dc-eb0e150e549d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4208f793-2821-49a9-8883-db5dc846b5e3","path":"sprites/sp_dreamcatcher/sp_dreamcatcher.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -55,7 +55,7 @@
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
     "xorigin": 32,
-    "yorigin": 32,
+    "yorigin": 71,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sp_dreamcatcher","path":"sprites/sp_dreamcatcher/sp_dreamcatcher.yy",},
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3033e308-4fcc-4254-a066-ae185ae71731","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"590500bb-e46c-4bd3-bed5-73034ea2550f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "furnitures and stuff",

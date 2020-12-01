@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "o_wall",
+    "path": "objects/o_wall/o_wall.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -28,7 +31,7 @@
     "path": "folders/Objects/tiles.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object25",
+  "name": "ob_space_tile",
   "tags": [],
   "resourceType": "GMObject",
 }
