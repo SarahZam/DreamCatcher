@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"5d6c078e-64de-4d24-a56c-55c569b85469","path":"sprites/sp_space_tile/sp_space_tile.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5d6c078e-64de-4d24-a56c-55c569b85469","path":"sprites/sp_space_tile/sp_space_tile.yy",},"LayerId":{"name":"68a3c17e-dcab-4353-9520-f3a5b6a2eae1","path":"sprites/sp_space_tile/sp_space_tile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sp_space_tile","path":"sprites/sp_space_tile/sp_space_tile.yy",},"resourceVersion":"1.0","name":"5d6c078e-64de-4d24-a56c-55c569b85469","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"dc84bf1e-9995-4bc7-aacb-dfc16cd560aa","path":"sprites/Sprite36/Sprite36.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"dc84bf1e-9995-4bc7-aacb-dfc16cd560aa","path":"sprites/Sprite36/Sprite36.yy",},"LayerId":{"name":"e6576205-4704-4e7c-9ce1-fae91b157171","path":"sprites/Sprite36/Sprite36.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Sprite36","path":"sprites/Sprite36/Sprite36.yy",},"resourceVersion":"1.0","name":"dc84bf1e-9995-4bc7-aacb-dfc16cd560aa","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sp_space_tile","path":"sprites/sp_space_tile/sp_space_tile.yy",},
+    "spriteId": {"name":"Sprite36","path":"sprites/Sprite36/Sprite36.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"56268ee4-86d8-4216-ad2e-996d8d15950f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5d6c078e-64de-4d24-a56c-55c569b85469","path":"sprites/sp_space_tile/sp_space_tile.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4ffcb55f-e7b4-425e-80ec-00660689bcae","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dc84bf1e-9995-4bc7-aacb-dfc16cd560aa","path":"sprites/Sprite36/Sprite36.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sp_space_tile","path":"sprites/sp_space_tile/sp_space_tile.yy",},
+    "parent": {"name":"Sprite36","path":"sprites/Sprite36/Sprite36.yy",},
     "resourceVersion": "1.3",
-    "name": "sp_space_tile",
+    "name": "Sprite36",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"68a3c17e-dcab-4353-9520-f3a5b6a2eae1","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e6576205-4704-4e7c-9ce1-fae91b157171","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "floors and walls",
-    "path": "folders/Sprites/floors and walls.yy",
+    "name": "furnitures and stuff",
+    "path": "folders/Sprites/furnitures and stuff.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sp_space_tile",
+  "name": "Sprite36",
   "tags": [],
   "resourceType": "GMSprite",
 }

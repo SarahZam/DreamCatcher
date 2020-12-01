@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"5d6c078e-64de-4d24-a56c-55c569b85469","path":"sprites/sp_space_tile/sp_space_tile.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5d6c078e-64de-4d24-a56c-55c569b85469","path":"sprites/sp_space_tile/sp_space_tile.yy",},"LayerId":{"name":"68a3c17e-dcab-4353-9520-f3a5b6a2eae1","path":"sprites/sp_space_tile/sp_space_tile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sp_space_tile","path":"sprites/sp_space_tile/sp_space_tile.yy",},"resourceVersion":"1.0","name":"5d6c078e-64de-4d24-a56c-55c569b85469","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"18071a49-2251-4906-9728-acf2fba0e3bd","path":"sprites/sp_bookshelf/sp_bookshelf.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"18071a49-2251-4906-9728-acf2fba0e3bd","path":"sprites/sp_bookshelf/sp_bookshelf.yy",},"LayerId":{"name":"1a5a499c-3a00-46aa-a447-a6a9d94c3543","path":"sprites/sp_bookshelf/sp_bookshelf.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sp_bookshelf","path":"sprites/sp_bookshelf/sp_bookshelf.yy",},"resourceVersion":"1.0","name":"18071a49-2251-4906-9728-acf2fba0e3bd","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sp_space_tile","path":"sprites/sp_space_tile/sp_space_tile.yy",},
+    "spriteId": {"name":"sp_bookshelf","path":"sprites/sp_bookshelf/sp_bookshelf.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"56268ee4-86d8-4216-ad2e-996d8d15950f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5d6c078e-64de-4d24-a56c-55c569b85469","path":"sprites/sp_space_tile/sp_space_tile.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"074208f5-e797-4ac8-a41a-0d2ef6cb63d1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"18071a49-2251-4906-9728-acf2fba0e3bd","path":"sprites/sp_bookshelf/sp_bookshelf.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sp_space_tile","path":"sprites/sp_space_tile/sp_space_tile.yy",},
+    "parent": {"name":"sp_bookshelf","path":"sprites/sp_bookshelf/sp_bookshelf.yy",},
     "resourceVersion": "1.3",
-    "name": "sp_space_tile",
+    "name": "sp_bookshelf",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"68a3c17e-dcab-4353-9520-f3a5b6a2eae1","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1a5a499c-3a00-46aa-a447-a6a9d94c3543","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "floors and walls",
-    "path": "folders/Sprites/floors and walls.yy",
+    "name": "furnitures and stuff",
+    "path": "folders/Sprites/furnitures and stuff.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sp_space_tile",
+  "name": "sp_bookshelf",
   "tags": [],
   "resourceType": "GMSprite",
 }
