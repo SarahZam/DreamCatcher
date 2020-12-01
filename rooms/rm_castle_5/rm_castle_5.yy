@@ -22,6 +22,7 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"ob_dreamcatcher","path":"objects/ob_dreamcatcher/ob_dreamcatcher.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":992.0,"y":608.0,"resourceVersion":"1.0","name":"inst_20431541","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_player","path":"objects/o_player/o_player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":544.0,"resourceVersion":"1.0","name":"inst_1AD84656","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"o_restart_r","path":"objects/o_restart_r/o_restart_r.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":128.0,"resourceVersion":"1.0","name":"inst_7E88437A","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Player","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"o_castle_boss_floor","path":"objects/o_castle_boss_floor/o_castle_boss_floor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":672.0,"resourceVersion":"1.0","name":"inst_79EA5A2D","tags":[],"resourceType":"GMRInstance",},
@@ -131,6 +132,7 @@
     {"name":"inst_55CA648B","path":"rooms/rm_castle_5/rm_castle_5.yy",},
     {"name":"inst_150564","path":"rooms/rm_castle_5/rm_castle_5.yy",},
     {"name":"inst_55D41DCA","path":"rooms/rm_castle_5/rm_castle_5.yy",},
+    {"name":"inst_7E88437A","path":"rooms/rm_castle_5/rm_castle_5.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

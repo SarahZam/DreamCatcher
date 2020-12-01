@@ -81,6 +81,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"o_castle_wall","path":"objects/o_castle_wall/o_castle_wall.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1248.0,"y":160.0,"resourceVersion":"1.0","name":"inst_6802FFD6","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_castle_wall","path":"objects/o_castle_wall/o_castle_wall.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1312.0,"y":160.0,"resourceVersion":"1.0","name":"inst_75E2B771","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_ladder_2","path":"objects/o_ladder_2/o_ladder_2.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1312.0,"y":0.0,"resourceVersion":"1.0","name":"inst_32BC9341","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"o_restart_r","path":"objects/o_restart_r/o_restart_r.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":256.0,"resourceVersion":"1.0","name":"inst_2D37D0B2","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":500,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Floor","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"o_castle_wall","path":"objects/o_castle_wall/o_castle_wall.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":0.0,"resourceVersion":"1.0","name":"inst_8D96310","tags":[],"resourceType":"GMRInstance",},
@@ -203,6 +204,7 @@
     {"name":"inst_53D69FED","path":"rooms/rm_castle_3/rm_castle_3.yy",},
     {"name":"inst_2A13B49C","path":"rooms/rm_castle_3/rm_castle_3.yy",},
     {"name":"inst_5A34E69C","path":"rooms/rm_castle_3/rm_castle_3.yy",},
+    {"name":"inst_2D37D0B2","path":"rooms/rm_castle_3/rm_castle_3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
