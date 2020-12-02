@@ -8,9 +8,9 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 63,
+  "bbox_right": 0,
   "bbox_top": 0,
-  "bbox_bottom": 63,
+  "bbox_bottom": 0,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"00653f8a-226f-4e32-85c3-1542564fc4e9","path":"sprites/sp_gameover/sp_gameover.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"00653f8a-226f-4e32-85c3-1542564fc4e9","path":"sprites/sp_gameover/sp_gameover.yy",},"LayerId":{"name":"c6900f2b-dd03-4838-9701-f7d0631f1b50","path":"sprites/sp_gameover/sp_gameover.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sp_gameover","path":"sprites/sp_gameover/sp_gameover.yy",},"resourceVersion":"1.0","name":"00653f8a-226f-4e32-85c3-1542564fc4e9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9c577663-21dd-4420-916c-aaa531e5e89a","path":"sprites/sp_space_door/sp_space_door.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9c577663-21dd-4420-916c-aaa531e5e89a","path":"sprites/sp_space_door/sp_space_door.yy",},"LayerId":{"name":"c5566347-86ed-45cd-b52a-a6d717315b16","path":"sprites/sp_space_door/sp_space_door.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sp_space_door","path":"sprites/sp_space_door/sp_space_door.yy",},"resourceVersion":"1.0","name":"9c577663-21dd-4420-916c-aaa531e5e89a","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sp_gameover","path":"sprites/sp_gameover/sp_gameover.yy",},
+    "spriteId": {"name":"sp_space_door","path":"sprites/sp_space_door/sp_space_door.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"bbd927ee-14b1-4a54-975a-76bfef1ae481","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"00653f8a-226f-4e32-85c3-1542564fc4e9","path":"sprites/sp_gameover/sp_gameover.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"193ea431-e819-4932-8c8a-3b0a98c4ebc8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9c577663-21dd-4420-916c-aaa531e5e89a","path":"sprites/sp_space_door/sp_space_door.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sp_gameover","path":"sprites/sp_gameover/sp_gameover.yy",},
+    "parent": {"name":"sp_space_door","path":"sprites/sp_space_door/sp_space_door.yy",},
     "resourceVersion": "1.3",
-    "name": "sp_gameover",
+    "name": "sp_space_door",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c6900f2b-dd03-4838-9701-f7d0631f1b50","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c5566347-86ed-45cd-b52a-a6d717315b16","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "sequence backgrounds",
-    "path": "folders/Sprites/sequence backgrounds.yy",
+    "name": "furnitures and stuff",
+    "path": "folders/Sprites/furnitures and stuff.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sp_gameover",
+  "name": "sp_space_door",
   "tags": [],
   "resourceType": "GMSprite",
 }
