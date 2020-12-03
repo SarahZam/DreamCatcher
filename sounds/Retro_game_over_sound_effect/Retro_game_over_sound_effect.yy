@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "Retro_game_over_sound_effect.mp3",
+  "soundFile": "retro_game_over_sound_effect.mp3",
   "duration": 2.094792,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Retro_game_over_sound_effect",
+  "name": "retro_game_over_sound_effect",
   "tags": [],
   "resourceType": "GMSound",
 }
