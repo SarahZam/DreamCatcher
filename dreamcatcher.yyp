@@ -129,11 +129,11 @@
     {"roomId":{"name":"rm_space_3","path":"rooms/rm_space_3/rm_space_3.yy",},},
     {"roomId":{"name":"rm_space_4","path":"rooms/rm_space_4/rm_space_4.yy",},},
     {"roomId":{"name":"rm_space_5","path":"rooms/rm_space_5/rm_space_5.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rm_gameover_jungle","path":"rooms/rm_gameover_jungle/rm_gameover_jungle.yy",},},
     {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
     {"roomId":{"name":"rm_bedroom2","path":"rooms/rm_bedroom2/rm_bedroom2.yy",},},
     {"roomId":{"name":"rm_bedroom3","path":"rooms/rm_bedroom3/rm_bedroom3.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
