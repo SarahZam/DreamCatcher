@@ -64,6 +64,7 @@
     {"id":{"name":"space_level_background","path":"sounds/space_level_background/space_level_background.yy",},"order":3,},
     {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},"order":2,},
     {"id":{"name":"o_bullet","path":"objects/o_bullet/o_bullet.yy",},"order":0,},
+    {"id":{"name":"Instructions","path":"rooms/Instructions/Instructions.yy",},"order":3,},
     {"id":{"name":"o_jungle_boss","path":"objects/o_jungle_boss/o_jungle_boss.yy",},"order":3,},
     {"id":{"name":"sp_castle_floor","path":"sprites/sp_castle_floor/sp_castle_floor.yy",},"order":2,},
     {"id":{"name":"sp_bed","path":"sprites/sp_bed/sp_bed.yy",},"order":4,},
@@ -138,6 +139,7 @@
     {"roomId":{"name":"rm_bedroom3","path":"rooms/rm_bedroom3/rm_bedroom3.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rm_gameover_jungle","path":"rooms/rm_gameover_jungle/rm_gameover_jungle.yy",},},
+    {"roomId":{"name":"Instructions","path":"rooms/Instructions/Instructions.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
