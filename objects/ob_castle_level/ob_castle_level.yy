@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sp_castle_level",
-    "path": "sprites/sp_castle_level/sp_castle_level.yy",
+    "name": "sp_castlebook",
+    "path": "sprites/sp_castlebook/sp_castlebook.yy",
   },
   "solid": false,
   "visible": true,
