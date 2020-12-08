@@ -9,8 +9,8 @@
   "swfPrecision": 2.525,
   "bbox_left": 10,
   "bbox_right": 53,
-  "bbox_top": 17,
-  "bbox_bottom": 63,
+  "bbox_top": 8,
+  "bbox_bottom": 25,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"dc84bf1e-9995-4bc7-aacb-dfc16cd560aa","path":"sprites/sp_bed/sp_bed.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dc84bf1e-9995-4bc7-aacb-dfc16cd560aa","path":"sprites/sp_bed/sp_bed.yy",},"LayerId":{"name":"e6576205-4704-4e7c-9ce1-fae91b157171","path":"sprites/sp_bed/sp_bed.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sp_bed","path":"sprites/sp_bed/sp_bed.yy",},"resourceVersion":"1.0","name":"dc84bf1e-9995-4bc7-aacb-dfc16cd560aa","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fc00b33b-f5db-4ff2-a029-b799926619ec","path":"sprites/sp_bed_top/sp_bed_top.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fc00b33b-f5db-4ff2-a029-b799926619ec","path":"sprites/sp_bed_top/sp_bed_top.yy",},"LayerId":{"name":"abcf7eaa-91d5-4e5f-9701-e22364553861","path":"sprites/sp_bed_top/sp_bed_top.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sp_bed_top","path":"sprites/sp_bed_top/sp_bed_top.yy",},"resourceVersion":"1.0","name":"fc00b33b-f5db-4ff2-a029-b799926619ec","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sp_bed","path":"sprites/sp_bed/sp_bed.yy",},
+    "spriteId": {"name":"sp_bed_top","path":"sprites/sp_bed_top/sp_bed_top.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"4ffcb55f-e7b4-425e-80ec-00660689bcae","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dc84bf1e-9995-4bc7-aacb-dfc16cd560aa","path":"sprites/sp_bed/sp_bed.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1730d5e5-a0ab-457a-9369-07406cf9b32f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fc00b33b-f5db-4ff2-a029-b799926619ec","path":"sprites/sp_bed_top/sp_bed_top.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sp_bed","path":"sprites/sp_bed/sp_bed.yy",},
+    "parent": {"name":"sp_bed_top","path":"sprites/sp_bed_top/sp_bed_top.yy",},
     "resourceVersion": "1.3",
-    "name": "sp_bed",
+    "name": "sp_bed_top",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e6576205-4704-4e7c-9ce1-fae91b157171","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"abcf7eaa-91d5-4e5f-9701-e22364553861","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "furnitures and stuff",
     "path": "folders/Sprites/furnitures and stuff.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sp_bed",
+  "name": "sp_bed_top",
   "tags": [],
   "resourceType": "GMSprite",
 }
