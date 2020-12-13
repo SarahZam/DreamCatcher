@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sp_space_level",
-    "path": "sprites/sp_space_level/sp_space_level.yy",
+    "name": "sp_spacebook",
+    "path": "sprites/sp_spacebook/sp_spacebook.yy",
   },
   "solid": false,
   "visible": true,
