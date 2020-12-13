@@ -26,7 +26,6 @@
         {"properties":[],"isDnd":true,"objectId":{"name":"ob_dreamcatcher","path":"objects/ob_dreamcatcher/ob_dreamcatcher.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":576.0,"resourceVersion":"1.0","name":"inst_7EBE2736","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Boss","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"ob_dreamcatcher","path":"objects/ob_dreamcatcher/ob_dreamcatcher.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-1248.0,"y":-160.0,"resourceVersion":"1.0","name":"inst_2DCFABBB","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"ob_jungle_tile","path":"objects/ob_jungle_tile/ob_jungle_tile.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":672.0,"resourceVersion":"1.0","name":"inst_13531BEB","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"ob_jungle_tile","path":"objects/ob_jungle_tile/ob_jungle_tile.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":672.0,"resourceVersion":"1.0","name":"inst_388AA02E","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"ob_jungle_tile","path":"objects/ob_jungle_tile/ob_jungle_tile.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":672.0,"resourceVersion":"1.0","name":"inst_18D686A2","tags":[],"resourceType":"GMRInstance",},
@@ -83,7 +82,6 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_2DCFABBB","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"inst_2AC8BFC7","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"inst_1694E4C8","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"inst_13531BEB","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
