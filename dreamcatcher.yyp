@@ -23,6 +23,7 @@
     {"id":{"name":"SlideTransition","path":"scripts/SlideTransition/SlideTransition.yy",},"order":13,},
     {"id":{"name":"sp_castle_ladder","path":"sprites/sp_castle_ladder/sp_castle_ladder.yy",},"order":0,},
     {"id":{"name":"ob_sc_wall","path":"objects/ob_sc_wall/ob_sc_wall.yy",},"order":8,},
+    {"id":{"name":"o_esc","path":"objects/o_esc/o_esc.yy",},"order":6,},
     {"id":{"name":"ob_desk","path":"objects/ob_desk/ob_desk.yy",},"order":8,},
     {"id":{"name":"o_gun","path":"objects/o_gun/o_gun.yy",},"order":1,},
     {"id":{"name":"sp_castle_bg","path":"sprites/sp_castle_bg/sp_castle_bg.yy",},"order":1,},
