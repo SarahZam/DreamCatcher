@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_enemy_castle_1",
-    "path": "sprites/s_enemy_castle_1/s_enemy_castle_1.yy",
+    "name": "s_enemy_walk_1",
+    "path": "sprites/s_enemy_walk_1/s_enemy_walk_1.yy",
   },
   "solid": false,
   "visible": true,
