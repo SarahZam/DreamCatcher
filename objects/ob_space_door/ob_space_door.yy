@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "ob_dreamcatcher",
+    "path": "objects/ob_dreamcatcher/ob_dreamcatcher.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

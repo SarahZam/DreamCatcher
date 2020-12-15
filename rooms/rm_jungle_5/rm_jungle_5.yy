@@ -19,7 +19,7 @@
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"gun","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"o_player","path":"objects/o_player/o_player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":576.0,"resourceVersion":"1.0","name":"inst_2AC8BFC7","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"o_restart_r","path":"objects/o_restart_r/o_restart_r.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":160.0,"resourceVersion":"1.0","name":"inst_3CA88AE2","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"o_esc","path":"objects/o_esc/o_esc.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":32.0,"resourceVersion":"1.0","name":"inst_4AE8C357","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Player","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"o_jungle_boss","path":"objects/o_jungle_boss/o_jungle_boss.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.75,"scaleY":0.75,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":736.0,"y":480.0,"resourceVersion":"1.0","name":"inst_36217E4A","tags":[],"resourceType":"GMRInstance",},
@@ -128,12 +128,12 @@
     {"name":"inst_1F0EA72D","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"inst_36217E4A","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"inst_416BC015","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
-    {"name":"inst_3CA88AE2","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"inst_7EBE2736","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"inst_77121562","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"inst_49B33C05","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"inst_133DD464","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
     {"name":"inst_2848EF20","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
+    {"name":"inst_4AE8C357","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
