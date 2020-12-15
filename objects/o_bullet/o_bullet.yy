@@ -27,6 +27,7 @@
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_jungle_enemy","path":"objects/o_jungle_enemy/o_jungle_enemy.yy",},"parent":{"name":"o_bullet","path":"objects/o_bullet/o_bullet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_space_enemy","path":"objects/o_space_enemy/o_space_enemy.yy",},"parent":{"name":"o_bullet","path":"objects/o_bullet/o_bullet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_jungle_boss","path":"objects/o_jungle_boss/o_jungle_boss.yy",},"parent":{"name":"o_bullet","path":"objects/o_bullet/o_bullet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_castle_boss","path":"objects/o_castle_boss/o_castle_boss.yy",},"parent":{"name":"o_bullet","path":"objects/o_bullet/o_bullet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
