@@ -128,7 +128,6 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_jungle_5","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"rm_bedroom","path":"rooms/rm_bedroom/rm_bedroom.yy",},},
     {"roomId":{"name":"rm_space_1","path":"rooms/rm_space_1/rm_space_1.yy",},},
@@ -141,6 +140,7 @@
     {"roomId":{"name":"rm_jungle_2","path":"rooms/rm_jungle_2/rm_jungle_2.yy",},},
     {"roomId":{"name":"rm_jungle_3","path":"rooms/rm_jungle_3/rm_jungle_3.yy",},},
     {"roomId":{"name":"rm_jungle_4","path":"rooms/rm_jungle_4/rm_jungle_4.yy",},},
+    {"roomId":{"name":"rm_jungle_5","path":"rooms/rm_jungle_5/rm_jungle_5.yy",},},
     {"roomId":{"name":"rm_gameover_jungle","path":"rooms/rm_gameover_jungle/rm_gameover_jungle.yy",},},
     {"roomId":{"name":"rm_bedroom3","path":"rooms/rm_bedroom3/rm_bedroom3.yy",},},
     {"roomId":{"name":"rm_castle_1","path":"rooms/rm_castle_1/rm_castle_1.yy",},},
