@@ -24,6 +24,7 @@
     {"instances":[
         {"properties":[],"isDnd":true,"objectId":{"name":"ob_space_door","path":"objects/ob_space_door/ob_space_door.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":2.1875,"scaleY":2.140625,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":884.0,"y":513.0,"resourceVersion":"1.0","name":"inst_1F0AD5C6","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_esc","path":"objects/o_esc/o_esc.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":192.0,"resourceVersion":"1.0","name":"inst_3221DA79","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"o_dummy","path":"objects/o_dummy/o_dummy.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":790.0,"y":604.0,"resourceVersion":"1.0","name":"inst_75EBB61F","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Floor","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
@@ -79,6 +80,7 @@
     {"name":"inst_6904D576","path":"rooms/rm_space_5/rm_space_5.yy",},
     {"name":"inst_1F0AD5C6","path":"rooms/rm_space_5/rm_space_5.yy",},
     {"name":"inst_3221DA79","path":"rooms/rm_space_5/rm_space_5.yy",},
+    {"name":"inst_75EBB61F","path":"rooms/rm_space_5/rm_space_5.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
