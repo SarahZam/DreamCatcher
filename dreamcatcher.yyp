@@ -39,6 +39,7 @@
     {"id":{"name":"s_enemy_castle_die_1","path":"sprites/s_enemy_castle_die_1/s_enemy_castle_die_1.yy",},"order":1,},
     {"id":{"name":"Object32","path":"objects/Object32/Object32.yy",},"order":7,},
     {"id":{"name":"sp_castle_wall","path":"sprites/sp_castle_wall/sp_castle_wall.yy",},"order":7,},
+    {"id":{"name":"sp_hospital","path":"sprites/sp_hospital/sp_hospital.yy",},"order":16,},
     {"id":{"name":"sp_space_enemy","path":"sprites/sp_space_enemy/sp_space_enemy.yy",},"order":0,},
     {"id":{"name":"Object29","path":"objects/Object29/Object29.yy",},"order":7,},
     {"id":{"name":"o_restart","path":"objects/o_restart/o_restart.yy",},"order":2,},
@@ -92,6 +93,7 @@
     {"id":{"name":"ob_jungle_level","path":"objects/ob_jungle_level/ob_jungle_level.yy",},"order":1,},
     {"id":{"name":"menu_background","path":"sounds/menu_background/menu_background.yy",},"order":6,},
     {"id":{"name":"sp_bookshelf","path":"sprites/sp_bookshelf/sp_bookshelf.yy",},"order":3,},
+    {"id":{"name":"rm_hospital","path":"rooms/rm_hospital/rm_hospital.yy",},"order":3,},
     {"id":{"name":"s_player_left","path":"sprites/s_player_left/s_player_left.yy",},"order":2,},
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},"order":0,},
     {"id":{"name":"o_ladder_1","path":"objects/o_ladder_1/o_ladder_1.yy",},"order":0,},
@@ -168,6 +170,7 @@
     {"roomId":{"name":"rm_castle_5","path":"rooms/rm_castle_5/rm_castle_5.yy",},},
     {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_hospital","path":"rooms/rm_hospital/rm_hospital.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
