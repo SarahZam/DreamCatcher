@@ -32,7 +32,7 @@
     "spriteId": {"name":"Jungle_wall","path":"sprites/Jungle_wall/Jungle_wall.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 31.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

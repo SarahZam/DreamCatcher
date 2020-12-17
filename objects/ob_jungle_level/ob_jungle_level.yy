@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sp_jungle_level",
-    "path": "sprites/sp_jungle_level/sp_jungle_level.yy",
+    "name": "sp_junglebook",
+    "path": "sprites/sp_junglebook/sp_junglebook.yy",
   },
   "solid": false,
   "visible": true,
