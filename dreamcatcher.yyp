@@ -160,11 +160,11 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_diary4","path":"rooms/rm_diary4/rm_diary4.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"rm_bedroom","path":"rooms/rm_bedroom/rm_bedroom.yy",},},
     {"roomId":{"name":"rm_gameover_jungle","path":"rooms/rm_gameover_jungle/rm_gameover_jungle.yy",},},
     {"roomId":{"name":"rm_diary3","path":"rooms/rm_diary3/rm_diary3.yy",},},
+    {"roomId":{"name":"rm_diary4","path":"rooms/rm_diary4/rm_diary4.yy",},},
     {"roomId":{"name":"rm_diary2","path":"rooms/rm_diary2/rm_diary2.yy",},},
     {"roomId":{"name":"rm_diary1","path":"rooms/rm_diary1/rm_diary1.yy",},},
     {"roomId":{"name":"rm_space_1","path":"rooms/rm_space_1/rm_space_1.yy",},},
