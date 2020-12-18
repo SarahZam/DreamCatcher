@@ -1,1 +1,1 @@
-target = rm_win;
+target = rm_bedroom4;
