@@ -72,6 +72,7 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"Object32","path":"objects/Object32/Object32.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":576.0,"resourceVersion":"1.0","name":"inst_7345E4D","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"OB_DOCTOR_LEVI","path":"objects/OB_DOCTOR_LEVI/OB_DOCTOR_LEVI.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.1,"scaleY":1.17464769,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":640.0,"y":608.0,"resourceVersion":"1.0","name":"inst_5CEA9778","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"ob_IV_bag","path":"objects/ob_IV_bag/ob_IV_bag.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":3.1,"scaleY":3.674648,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":800.0,"y":447.999969,"resourceVersion":"1.0","name":"inst_1686707D","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"levels","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":true,"objectId":{"name":"ob_hospital_desk","path":"objects/ob_hospital_desk/ob_hospital_desk.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":5.0,"scaleY":5.682292,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":320.0,"resourceVersion":"1.0","name":"inst_665A8CD1","tags":[],"resourceType":"GMRInstance",},
@@ -136,6 +137,7 @@
     {"name":"inst_665A8CD1","path":"rooms/rm_hospital/rm_hospital.yy",},
     {"name":"inst_A7DCC6F","path":"rooms/rm_hospital/rm_hospital.yy",},
     {"name":"inst_5CEA9778","path":"rooms/rm_hospital/rm_hospital.yy",},
+    {"name":"inst_1686707D","path":"rooms/rm_hospital/rm_hospital.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
