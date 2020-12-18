@@ -92,6 +92,7 @@
     {"id":{"name":"o_diary1","path":"objects/o_diary1/o_diary1.yy",},"order":7,},
     {"id":{"name":"SP_DESK","path":"sprites/SP_DESK/SP_DESK.yy",},"order":7,},
     {"id":{"name":"o_e","path":"objects/o_e/o_e.yy",},"order":8,},
+    {"id":{"name":"gun_shot_single","path":"sounds/gun_shot_single/gun_shot_single.yy",},"order":7,},
     {"id":{"name":"o_diary3","path":"objects/o_diary3/o_diary3.yy",},"order":10,},
     {"id":{"name":"sp_bed","path":"sprites/sp_bed/sp_bed.yy",},"order":4,},
     {"id":{"name":"rm_space_3","path":"rooms/rm_space_3/rm_space_3.yy",},"order":2,},

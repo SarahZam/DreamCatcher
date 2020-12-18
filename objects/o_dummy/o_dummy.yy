@@ -23,7 +23,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_bullet","path":"objects/o_bullet/o_bullet.yy",},"parent":{"name":"o_dummy","path":"objects/o_dummy/o_dummy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

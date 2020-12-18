@@ -20,7 +20,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_bullet","path":"objects/o_bullet/o_bullet.yy",},"parent":{"name":"OB_DOCTOR_LEVI","path":"objects/OB_DOCTOR_LEVI/OB_DOCTOR_LEVI.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

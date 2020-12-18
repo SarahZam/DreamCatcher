@@ -26,6 +26,7 @@
     {"isDnD":true,"eventNum":1,"eventType":3,"collisionObjectId":null,"parent":{"name":"o_jungle_enemy","path":"objects/o_jungle_enemy/o_jungle_enemy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"o_jungle_enemy","path":"objects/o_jungle_enemy/o_jungle_enemy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_player","path":"objects/o_player/o_player.yy",},"parent":{"name":"o_jungle_enemy","path":"objects/o_jungle_enemy/o_jungle_enemy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_bullet","path":"objects/o_bullet/o_bullet.yy",},"parent":{"name":"o_jungle_enemy","path":"objects/o_jungle_enemy/o_jungle_enemy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
